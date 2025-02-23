@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="abstract-factory" />
+        <module name="creational_pattern_abstract_factory" />
         <module name="creational_pattern_factory_method" />
       </profile>
     </annotationProcessing>
